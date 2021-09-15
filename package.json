@@ -142,7 +142,7 @@
     "schema-utils": "^1.0.0",
     "semver": "^5.7.0",
     "serialize-javascript": "^1.7.0",
-    "set-value": "^2.0.1",
+    "set-value": "^4.0.1",
     "setimmediate": "^1.0.5",
     "sha.js": "^2.4.11",
     "snapdragon": "^0.8.2",
