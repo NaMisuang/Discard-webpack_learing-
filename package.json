@@ -4,7 +4,7 @@
   "description": "learn webpack",
   "main": "entry.js",
   "dependencies": {
-    "ajv": "^6.10.0",
+    "ajv": "^6.12.3",
     "anymatch": "^2.0.0",
     "asn1.js": "^4.10.1",
     "assert": "^1.5.0",
